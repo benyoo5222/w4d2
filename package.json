@@ -1,0 +1,23 @@
+{
+  "name": "w4d2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^7.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benyoo5222/w4d2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benyoo5222/w4d2/issues"
+  },
+  "homepage": "https://github.com/benyoo5222/w4d2#readme"
+}
